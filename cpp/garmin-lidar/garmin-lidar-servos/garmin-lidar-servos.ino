@@ -1,3 +1,25 @@
+/* Info
+This is a modified version of the Sweep example 
+file (info below) from the Servo library.
+
+Properties of two attached servos in order to create 
+spherical coordinates when paired with with an 
+associated lidar module attached to a separate microcontroller.
+
+Continuously send servo position. Asynchronously send an 
+updated position after a time delay.
+
+---------- 
+
+Sweep
+ by BARRAGAN <http://barraganstudio.com>
+ This example code is in the public domain.
+
+ modified 8 Nov 2013
+ by Scott Fitzgerald
+ https://www.arduino.cc/en/Tutorial/LibraryExamples/Sweep
+*/
+
 #include <Servo.h>
 
 Servo servoX;

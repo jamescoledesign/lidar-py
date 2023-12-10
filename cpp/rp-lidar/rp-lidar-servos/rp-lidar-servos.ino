@@ -1,4 +1,14 @@
-/* Sweep
+/* Info
+This is a modified version of the Sweep example 
+file (info below) from the Servo library.
+
+Properties of the attached servos are made available 
+to create spherical coordinates when paired with with a 
+lidar module.
+
+---------- 
+
+Sweep
  by BARRAGAN <http://barraganstudio.com>
  This example code is in the public domain.
 
