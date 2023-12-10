@@ -40,7 +40,8 @@ Read more about this project [here.](https://www.jamescole.info/posts/lidar-scan
 - Create basic plot
 - Create interactive plot 
 
-_Example plots:_
+_Example plots:_  
+
 <img style="height: 400px; padding-top: 20px" src="./examples/lving-room-front1.png"></img> 
 <img style="height: 400px; padding-top: 20px" src="./examples/living-room-side.png"></img>  
 <img style="height: 400px; padding-top: 20px" src="./examples/office-top.png"></img>  
