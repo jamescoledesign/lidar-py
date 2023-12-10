@@ -42,7 +42,7 @@ Read more about this project [here.](https://www.jamescole.info/posts/lidar-scan
 
 _Example plots:_  
 
-<img style="height: 400px; padding-top: 20px" src="./examples/lving-room-front1.png"></img> 
+<img style="height: 400px; padding-top: 20px" src="./examples/lving-room-front.png"></img> 
 <img style="height: 400px; padding-top: 20px" src="./examples/living-room-side.png"></img>  
 <img style="height: 400px; padding-top: 20px" src="./examples/office-top.png"></img>  
 <img style="height: 400px; padding-top: 20![living-room-side](/assets/living-room-side.png)px" src="./examples/office-side.png"></img> 
