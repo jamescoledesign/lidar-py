@@ -13,7 +13,9 @@ Read more about this project [here.](https://www.jamescole.info/posts/lidar-scan
 
 ## Instructions
 
-### 1. Install packages  
+There are two demo files available, one for each LIDAR module tested. Data from previous scans can be imported via CSV files. After importing packages, simply skip ahead to _2b. Import data_ to create plots from the imported data.  
+
+### 1. Install dependencies and import packages 
 - pySerial: ```pip install pyserial```
 - pandas:  ```pip install pandas```
 - Matplotlib: ```pip install matplotlib```
@@ -24,19 +26,17 @@ Read more about this project [here.](https://www.jamescole.info/posts/lidar-scan
 **If using RP Lidar A1**
 - rplidar: ```pip install rplidar-roboticia```
 
-### 2. Import packages
-
-### 3. Run scan (a) or import data (b)
-#### (a) Run scan 
+### 2. Run scan (a) or import data (b)
+#### 2a. Run scan 
 - Get serial port information 
 - Declare ports 
 - Scan
 - Clean data
 - Export data (optional)
 
-#### (b) Import data
+#### 2b. Import data
 
-### 4. Plot point cloud using PyVista
+### 3. Plot point cloud using PyVista
 - Create basic plot
 - Create interactive plot 
 
