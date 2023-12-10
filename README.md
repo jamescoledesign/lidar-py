@@ -8,7 +8,7 @@ Read more about this project [here.](https://www.jamescole.info/posts/lidar-scan
 
 **Tested LIDAR modules**
 
-1. [Garmin LIDAR-Lite v4](https://www.sparkfun.com/products/)
+1. [Garmin LIDAR-Lite v4](https://www.sparkfun.com/products/18009)
 2. [Slamtec RPLIDAR A1](https://www.adafruit.com/product/4010)
 
 ## Instructions
