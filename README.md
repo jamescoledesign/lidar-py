@@ -41,14 +41,12 @@ Read more about this project [here.](https://www.jamescole.info/posts/lidar-scan
 - Create interactive plot 
 
 _Example plots:_
-<img style="height: 400px; padding-top: 20px" src="./examples/lving-room-front.png"></img>  
-<img style="height: 400px; padding-top: 20px" src="./examples/living-room-top.png"></img>  
-<img style="height: 400px; padding-top: 20px" src="./examples/living-room-iso.png"></img>  
+<img style="height: 400px; padding-top: 20px" src="./examples/lving-room-front1.png"></img> 
+<img style="height: 400px; padding-top: 20px" src="./examples/living-room-side.png"></img>  
 <img style="height: 400px; padding-top: 20px" src="./examples/office-top.png"></img>  
-<img style="height: 400px; padding-top: 20px" src="./examples/office-side.png"></img> 
+<img style="height: 400px; padding-top: 20![living-room-side](/assets/living-room-side.png)px" src="./examples/office-side.png"></img> 
 <img style="height: 400px; padding-top: 20px" src="./examples/office-back.png"></img>  
-<img style="height: 400px; padding-top: 20px" src="./examples/office-top.png"></img>  
-<img style="height: 400px; padding-top: 20px" src="./examples/office-side.png"></img> 
+
 
 ## C++ files
 **Note:** The C++ files are not required to run this program. They simply demonstrate how information printed to the Serial console from a C++ program can be accessed via Python. 
