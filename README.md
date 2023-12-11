@@ -59,7 +59,7 @@ The files in _cpp/garmin-lidar_ can be used to send lidar distance measurements 
 **C++ libraries used**  
 
 - [Wire](https://www.arduino.cc/reference/en/language/functions/communication/wire/)
-    - Enables I2C communication for the Arduino UNO R4 WifI
+    - Enables I2C communication for the Arduino UNO R4 WiFi
 - [SparkFun_LIDARLitev4_Arduino_Library](https://github.com/sparkfun/SparkFun_LIDARLitev4_Arduino_Library)
     - _Example1_GetDistance.ino_ in the Examples folder of this library only required slight changes to work for this project.
 - [Servo](https://www.arduino.cc/reference/en/libraries/servo/)
