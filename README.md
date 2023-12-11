@@ -65,7 +65,7 @@ The files in _cpp/garmin-lidar_ can be used to send lidar distance measurements 
 - [Servo](https://www.arduino.cc/reference/en/libraries/servo/)
     - Control behavior of attached servos. This is a modified version of the Sweep example file from the Servo library.
 
-#### Slamtec RPLIDAR A1
+### Slamtec RPLIDAR A1
 
 The files in _cpp/rp-lidar_ control a single servo. Data from the RP Lidar A1 can be accessed in Python by installling and importing [RPLidar](https://github.com/Roboticia/RPLidar). 
 
